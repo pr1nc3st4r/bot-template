@@ -5,3 +5,5 @@ The only text in this file will be your bot key.
 DO NOT add this file to your repo, instead save it to the same location you will be running your bot from.
 
 Enjoy!
+
+Step 1: Run the create_database.py file to create a new database file
